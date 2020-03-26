@@ -7,7 +7,13 @@ public class FirstClass {
          System.out.println("Change three");
          System.out.println("Change four");
         System.out.println("Change er");
+
         System.out.println("Konkow ake kudai sizdi saktasyn");
+
+        System.out.println("Konkow kanchan keles uigo?");
+
+        System.out.println("working hard");
+
         
         
         
