@@ -4,5 +4,7 @@ public class SecondClass {
         System.out.println("Hello");
         System.out.println("Kyrgyzstan");
         System.out.println("Play Dead by Harlan Coben");
+        System.out.println("Kyrgyzstan");
+        System.out.println("Play Dead by Harlan Coben");
     }
 }
